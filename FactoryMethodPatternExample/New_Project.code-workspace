@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "New_Project",
+			"path": "../New_Project"
+		},
+		{
+			"name": "SinglePatternExample",
+			"path": "../SinglePatternExample"
+		},
+		{
+			"name": "FactoryMethodPatternExample",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
